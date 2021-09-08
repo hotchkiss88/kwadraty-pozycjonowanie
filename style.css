@@ -1,0 +1,26 @@
+.outer{
+  height: 400px;
+  width: 400px;
+  border:10px solid #666360;
+  position: relative;
+  background-color: #a6a9b6;
+}
+
+ .inner{
+  height: 200px;
+  width: 200px;
+}
+
+.orange{
+  background-color:#ff912e;
+  position: absolute;
+  bottom:0;
+  left:0;
+}
+
+.gray{
+  background-color:#e4e4e4;
+  position: absolute;
+  top:0;
+  right:0;
+}
